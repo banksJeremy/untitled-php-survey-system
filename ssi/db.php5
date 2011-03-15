@@ -1,8 +1,9 @@
 <?php
 class NicerSQLite3 extends SQLite3 {
   function query($query) {
-    // executes a query including additional arguments using a
-    // prepared statement, if they are provided.
+    // Executes a SQL query.
+    // Additional arguments are added through a prepared statement.
+    
     $argc = func_num_args();
     
     if ($argc <= 1) {

@@ -1,0 +1,16 @@
+Copyright 2011 Jeremy Banks
+All Rights Reserved
+
+Third-party libraries used:
+  jQuery 1.5.1:
+    Copyright 2011 John Resig
+    
+    Distributed under the MIT license
+    http://jquery.com/
+  
+  jsSHA 1.3:
+    Copyright Brian Turek 2008-2010
+    Several functions taken from Paul Johnson
+    
+    Distributed under the BSD License
+    http://jssha.sourceforge.net/
