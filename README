@@ -8,9 +8,8 @@ Third-party libraries used:
     Distributed under the MIT license
     http://jquery.com/
   
-  jsSHA 1.3:
-    Copyright Brian Turek 2008-2010
-    Several functions taken from Paul Johnson
+  Crypto-JS 2.0.0:
+    Copyright 2009 Jeff Mott
     
     Distributed under the BSD License
-    http://jssha.sourceforge.net/
+    http://code.google.com/p/crypto-js/
